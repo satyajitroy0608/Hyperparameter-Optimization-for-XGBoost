@@ -1,4 +1,4 @@
 # Hyperparameter-Optimization-for-XGBoost
-Bank Customer Exit Prediction using XGBoost 
+This model performs Bank Customer Exit Prediction using XGBoost 
 
 Hyperparameter Optimization of XGBoost algorithm is done using RandomizedSearchCV
